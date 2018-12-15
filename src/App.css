@@ -8,8 +8,13 @@
 .screen{
     background-color: black;
     text-align: right;
-    padding: 4px;
-    padding-top: 24px;
+    padding: 24px;
+    padding-bottom: 12px;
+    font-family: 'Orbitron', sans-serif;
+    color:  #20C20E;
+    font-size: 1.4em;
+    font-weight: 800;
+    overflow: hidden;
 }
 
 .board{
